@@ -17,11 +17,11 @@ Es una aplicación (en local o en linea) que permite editar un texto, una hoja d
 
 5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de Google"):
 
-| **Aplicaciones** | **Visto** |  |
-|Google Docs|...|
-|Google Slides | ...|
-|Google Sheets| ... |
-|Google Calendar | ...|
-|Google Meet | ...|
-|Google Meet | ...|
+| **Aplicaciones** | **Visto** |  
+|Google Docs|...|  
+|Google Slides | ...|  
+|Google Sheets| ... |  
+|Google Calendar | ...|  
+|Google Meet | ...|  
+|Google Meet | ...|  
 
